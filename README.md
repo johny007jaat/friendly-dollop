@@ -1,1 +1,1 @@
-# friendly-dollop
+# friendly-dollop.json
